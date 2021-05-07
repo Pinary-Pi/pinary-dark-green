@@ -1,0 +1,21 @@
+{
+    "name": "pinary-dark-green",
+    "displayName": "Pinary Dark Green",
+    "description": "A dark theme, with green highlights.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Aqua Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Aqua Green-color-theme.json"
+            }
+        ]
+    }
+}
